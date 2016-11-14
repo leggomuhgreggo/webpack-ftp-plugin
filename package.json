@@ -1,0 +1,11 @@
+{
+  "name": "webpack-ftp",
+  "version": "0.1.0",
+  "description": "Plugin that FTPs webpack output files on compile.",
+  "main": "index.js",
+  "author": "Greg Westneat <gwestneat@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ftp": "^0.3.10"
+  }
+}
